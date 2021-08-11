@@ -13,7 +13,7 @@
 	<artifactId>spring-boot-openshift</artifactId>
 	<version>1.0</version>
 	<name>Spring Boot Openshift</name>
-	<description>Sprign boot starter runnable on Openshift(Wildfly) and in Eclipse. With JUnit.</description>
+	<description>Sprign boot starter runnable on OpenShift (Wildfly) and in Eclipse. With JUnit.</description>
 	<packaging>war</packaging>
 
 	<properties>
